@@ -8,7 +8,7 @@ A simple AI healthcare assistant that diagnoses conditions and provides treatmen
 - Uses LangGraph for structured conversation flow
 - Integrates with LangSmith for tracking
 
-##How it Works
+## How it Works
 The app follows a simple workflow:
 
 1.  User asks a health-related question
